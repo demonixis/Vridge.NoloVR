@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vridge.NoloVR", "Vridge.NoloVR\Vridge.NoloVR.csproj", "{0F8CADAE-CBD5-41DD-9DB1-D93A81929432}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VRE.Vridge.API.Client", "VRE.Vridge.API.Client\VRE.Vridge.API.Client.csproj", "{4FF5A4E2-6D7C-481C-8AF3-05E4B9CE179B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F8CADAE-CBD5-41DD-9DB1-D93A81929432}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F8CADAE-CBD5-41DD-9DB1-D93A81929432}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F8CADAE-CBD5-41DD-9DB1-D93A81929432}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F8CADAE-CBD5-41DD-9DB1-D93A81929432}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FF5A4E2-6D7C-481C-8AF3-05E4B9CE179B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FF5A4E2-6D7C-481C-8AF3-05E4B9CE179B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FF5A4E2-6D7C-481C-8AF3-05E4B9CE179B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FF5A4E2-6D7C-481C-8AF3-05E4B9CE179B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4F6F1F9-87E3-4AF1-919A-FA950D4064E2}
+	EndGlobalSection
+EndGlobal
